@@ -2,6 +2,8 @@
 
 A fullsize homemade maimai machine.
 This guide is not finished yet, but most of the files you need to make the machine are here.
+<img src="pics/IMG_1589.JPEG">
+<img src="pics/IMG_1764.JPEG">
 
 # Disclaimers
 
