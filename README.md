@@ -39,7 +39,7 @@ CC-NC, feel free to modify the project but don't make any money from this guide.
 - Rabbit buttons
 - ITO Film 40ohm 1m
 - 43" TV
-- 24" side-to-side Hexagon glass
+- 24" side-to-side Octagon glass
 - Chair leg floor protectors
 - 2020 48" Aluminum
 - Small wood screws for buttons
