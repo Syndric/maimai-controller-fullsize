@@ -9,6 +9,7 @@ This guide is not finished yet, but most of the files you need to make the machi
 
 Read [Romper's fullsize guide](https://github.com/ir0nq/maimai-homemade-controller) before reading the instructions here.
 DO NOT LASERCUT WITH THE ITO TEMPLATE AS IS. I'm not sure if the traces are wide enough. It's only good to be used for hand tracing/cut.
+DO NOT MAKE THE CART IN MY DESIGN. It's not really stable.
 
 I am NOT financially responsible for any mishaps you might have. This is only a guide. Double check all measurements.
 
