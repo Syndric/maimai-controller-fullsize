@@ -1,7 +1,8 @@
 # Maimai Controller Fullsize
 
 A fullsize homemade maimai machine.
-This guide is not finished yet, but most of the files you need to make the machine are here.
+Current guide can be found at [this google doc](https://docs.google.com/document/d/1rlUKWXb57IGA04_7nuOs167HQMNG2UHoSkpQwI1rv1U/edit?usp=sharing).
+This guide is not finished yet, but most of the files you need to make the machine are here. READ CAREFULLY!
 <img src="pics/IMG_1589.JPEG">
 <img src="pics/IMG_1764.JPEG">
 
@@ -18,6 +19,7 @@ I am NOT financially responsible for any mishaps you might have. This is only a 
 CC-NC, feel free to modify the project but don't make any money from this guide.
 
 # Bill of Materials
+Not complete
 
 ## PCB
 
